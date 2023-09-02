@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 
 
-### 🌱 I’m currently learning Data Structures in Java and Web Devolpment.
+### 🌱 I’m currently learning Data Structures in C++ and Web Devolpment.
 ### 📫 How to reach me: tusharrtk3108@gmail.com
 
           
