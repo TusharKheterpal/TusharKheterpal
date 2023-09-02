@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranA19&label=Profile%20views&color=0e75b6&style=flat" alt="karan" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/karanarora01/" target="blank"><img src="https://img.shields.io/badge/Linkedin-Karan-blue?style=for-the-badge&logo=linkedin" alt="Karan" /></a> </p>
+<p align="left"> <a href="[https://www.linkedin.com/in/karanarora01/](https://www.linkedin.com/in/tushar-kheterpal-960820226/)" target="blank"><img src="https://img.shields.io/badge/Linkedin-Karan-blue?style=for-the-badge&logo=linkedin" alt="Tushar" /></a> </p>
 
 ### 🌱 I’m currently learning Data Structures in Java and Web Devolpment.
 ### 📫 How to reach me: tusharrtk3108@gmail.com
@@ -12,8 +12,8 @@
            
  <h3 align="left">Connect with me:<img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px"/></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/karanarora01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan" height="30" width="40" /></a>
-<a href="https://leetcode.com/arorakaran915/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="karan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tushar-kheterpal-960820226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan" height="30" width="40" /></a>
+<a href="https://leetcode.com/tusharrtk/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="karan" height="30" width="40" /></a>
   
 </p>
 
