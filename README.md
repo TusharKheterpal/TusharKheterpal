@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranA19&label=Profile%20views&color=0e75b6&style=flat" alt="karan" /> </p>
 
-<p align="left"> <a href="[https://www.linkedin.com/in/karanarora01/](https://www.linkedin.com/in/tushar-kheterpal-960820226/)" target="blank"><img src="https://img.shields.io/badge/Linkedin-Karan-blue?style=for-the-badge&logo=linkedin" alt="Tushar" /></a> </p>
+<p align="left"> <a href="(https://www.linkedin.com/in/tushar-kheterpal-960820226/)" target="blank"><img src="https://img.shields.io/badge/Linkedin-Karan-blue?style=for-the-badge&logo=linkedin" alt="Tushar" /></a> </p>
 
 ### 🌱 I’m currently learning Data Structures in Java and Web Devolpment.
 ### 📫 How to reach me: tusharrtk3108@gmail.com
